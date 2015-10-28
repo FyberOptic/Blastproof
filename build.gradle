@@ -26,7 +26,6 @@ dynamicmappings {
 
 meddleapi {
     version = "1.0.5"
-    location = '../meddleapi/build/libs/meddleapi-1.0.5.jar'
 }
 
 minecraft {
